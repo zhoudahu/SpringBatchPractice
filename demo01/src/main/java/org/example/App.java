@@ -14,7 +14,9 @@ public class App
 {
     public static void main( String[] args )
     {
-        SpringApplication.run(App.class, args);
+        fewfewfewfewfewfewfewfewfSpringApplication.run(App.class, args);
+
+        ghrtegregregregreggregreg
     }
 
 
